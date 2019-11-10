@@ -1,0 +1,15 @@
+name: "Reto Zihlmann"
+output_dir: "."
+navbar:
+  title: "Reto Zihlmann"
+  left:
+    - text: "Education"
+      href: education.html
+    - text: "Job"
+      href: job.html
+    - text: "Projects"
+      href: projects.html
+output:
+  html_document:
+    theme: paper
+    css: 'styles.css'

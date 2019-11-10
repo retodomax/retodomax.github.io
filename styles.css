@@ -1,0 +1,36 @@
+img.round {
+  border-radius: 50%;
+}
+
+
+.column-left{
+  float: left;
+  width: 50%;
+  text-align: center;
+}
+
+.column-right{
+  float: right;
+  width: 50%;
+  text-align: left;
+}
+
+
+/* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+  .column-left, .column-right {
+    width: 100%;
+  }
+}
+
+
+a.largelink {
+  color: gray;
+  text-decoration: none;
+  font-size: large;
+}
+
+a.largelink:hover {
+  color: black;
+}
+

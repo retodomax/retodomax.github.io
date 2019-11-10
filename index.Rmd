@@ -1,0 +1,40 @@
+
+```{r, include=FALSE}
+htmltools::tagList(rmarkdown::html_dependency_font_awesome())
+```
+
+
+<br>
+<br>
+
+<div class="column-left">
+<img class="round" src = "img/newportrait.JPG" alt = "Reto" width = 50%>
+<br>
+<h2>Reto Zihlmann<h2>
+<h4>MSc Statistics<h4>
+</div>
+
+
+
+<div class="column-right">
+
+<br>
+<br>
+
+I am an agricultural scientist with interest in plant breeding and statistics. Currently I am studying statistics at ETH Zürich.
+<br>
+
+<a class="largelink" href="mailto:retozihlmann@outlook.com">
+<p><i class="fa fa-envelope"></i>&ensp;Mail</p>
+</a>
+
+<a class="largelink" href="https://github.com/retodomax">
+<p><i class="fa fa-github"></i>&ensp;Github</p>
+</a>
+
+<a class="largelink" href="https://www.linkedin.com/in/reto-zihlmann-271305160/">
+<p><i class="fa fa-linkedin"></i>&ensp;LinkedIn</p>
+</a>
+
+</div>
+
