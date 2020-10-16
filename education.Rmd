@@ -6,15 +6,15 @@
 <table style="width:70%">
 <col width="140">
 <tr>
-<td valign="top">Since 2018</td>
-<td>**MSc Statistics, ETH Zürich** <br> Expected graduation: September 2020<br><br></td>
+<td valign="top">2018 -- 2020</td>
+<td>**MSc Statistics, ETH Zürich** <br> MSc thesis: "[Generalized Linear Mixed Effects Models in Genetic Evaluations](files/MasterThesisSfS.pdf)"<br><br></td>
 </tr>
 <tr>
-<td valign="top">2016 - 2018</td>
+<td valign="top">2016 -- 2018</td>
 <td>**MSc Agricultural Science, ETH Zürich** <br> Main subject: Plant Science <br> MSc thesis: "[Genetic determinants of leaf growth response to environment in wheat](files/Master_Thesis_text_RZ.pdf)"<br><br></td>
 </tr>
 <tr>
-<td valign="top">2013 - 2016</td>
+<td valign="top">2013 -- 2016</td>
 <td>**BSc Agricultural Science, ETH Zürich** <br> BSc thesis: "[How do differences in management reflect on the carbon fluxes of a Swiss grassland?](files/Bachelor_Thesis_RZ_nachAbgabe1.pdf)"<br><br></td>
 </tr>
 </table>

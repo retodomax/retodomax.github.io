@@ -3,18 +3,4 @@
 <br>
 <br>
 
-I am currently working for some jobs at ETH
-
-* Project emplyee, ETH juniors
-    - Collect data related to real estate price prediction
-    - Develop user interface for spatial data exploration (Shiny, Leaflet)
-    - Create index and predict future trends
-* Teaching assistant seminar for statistics, ETH Zürich
-    - Applied ANOVA and experimental design
-    - Question hours, Support in practice session
-* Teaching assistant crop science group, ETH Zürich
-    - Experimental Design and Applied Statistics in Agroecosystem Science
-    - Mark semester tasks
-* Salsa Teacher, Tanzquotient
-    - Prepare and carry out dance lessons
-    - Motivating students to take an active part
+I am working at the Seminar for Statistics (SfS) of ETH Zürich as a statistical consultant. Details about the our consulting service can be found at the Website of [SfS](https://math.ethz.ch/sfs/consulting.html).
