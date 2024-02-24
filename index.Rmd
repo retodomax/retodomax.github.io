@@ -21,7 +21,7 @@ htmltools::tagList(rmarkdown::html_dependency_font_awesome())
 <br>
 <br>
 
-I am statistician and agricultural scientist with special interest in breeding, genomics and phenotyping. Currently, I am working at ETH Zürich as a statistical consultant.  
+I am statistician and agricultural scientist with special interest in nutrition, breeding and genomics. Currently, I am working at [dsm-firmenich](https://www.dsm-firmenich.com/) as a statistician.
 <br>
 
 <a class="largelink" href="mailto:retozihlmann@outlook.com">

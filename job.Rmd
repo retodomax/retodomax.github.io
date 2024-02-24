@@ -3,4 +3,9 @@
 <br>
 <br>
 
-I am working at the Seminar for Statistics (SfS) of ETH Zürich as a statistical consultant. Details about the our consulting service can be found at the Website of [SfS](https://math.ethz.ch/sfs/consulting.html).
+I am working at [dsm-firmenich](https://www.dsm-firmenich.com/) as a statistician. Our team provides statistical support for the development of food/feed additives in human and animal nutrition by making use of a variety of statistical tools like:
+
+* Design of experiment
+* Power analysis
+* Statistical modelling
+* Meta-analysis
